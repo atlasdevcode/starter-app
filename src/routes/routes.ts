@@ -1,4 +1,4 @@
-// Route paths for route navigation
+// Route paths for route navigation go here.
 
 // const RoutePaths = {
 //   HOME: "/",

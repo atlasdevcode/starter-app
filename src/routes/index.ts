@@ -1,6 +1,6 @@
 // Create custom routes for app navigation
 
-import { RoutePaths } from "./routes";
+import { RoutePaths } from "@/routes/routes";
 
 const routes = {
   dashboard: [

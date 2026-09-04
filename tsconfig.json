@@ -21,7 +21,16 @@
       {
         "name": "next"
       }
-    ]
+    ],
+     "paths": {
+      "@/api/*": ["./src/api/*"],
+      "@/components/*": ["./src/components/*"],
+      "@/data/*": ["./src/data/*"],
+      "@/helpers/*": ["./src/helpers/*"],
+      "@/lib/*": ["./src/lib/*"],
+      "@/routes/*": ["./src/routes/*"],
+      "@/types/*": ["./src/types/*"],
+    }
   },
   "include": [
     "next-env.d.ts",

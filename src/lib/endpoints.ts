@@ -2,4 +2,4 @@
  * Endpoint service
  ***/
 
-// export default class Endpoints {}
+export default class Endpoints {}

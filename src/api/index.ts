@@ -2,11 +2,11 @@
  * Sample API Service
  */
 
-// class ApiService {
-//   constructor() {}
+class ApiService {
+  constructor() {}
 
-//   public async customService() {}
-// }
+  public async customService() {}
+}
 
-// const apiService = new ApiService();
-// export default apiService;
+const apiService = new ApiService();
+export default apiService;
